@@ -9,6 +9,6 @@
 # Notably Absent: 
 #            1) Hall of fame Defensive back Ty Law is not included because he did not run the 40 yard dash.
 #            2) Hall of fame Defensive back Ronnie Lott is not included because he came into the league before 1987.
-#            3) Hall of fame Defensive back Troy Polamalu is not included because he did not participate in the combinedue to injury.             
+#            3) Hall of fame Defensive back Troy Polamalu is not included because he did not participate in the combine due to injury.             
 #            4) Hall of fame Defensive back Ed Reed is not included because he is not listed as having participated inthe 2002 NFL Combine as reported 
-#               by https://nflcombineresults.com/nflcombinedata.php?year=2002
+#            by https://nflcombineresults.com/nflcombinedata.php?year=2002
